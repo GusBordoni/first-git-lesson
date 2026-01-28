@@ -2,3 +2,5 @@ teste git pull
 aaa
 aaaaaaa
 teste do branch novo
+
+teste fazendo stash no meio
